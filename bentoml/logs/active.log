@@ -1,0 +1,6 @@
+[2021-12-03 14:05:33,897] {bento_repository_api.py:275} INFO - BentoService bundle 'IrisClassifier:20211203140533_8BC50E' saved to: /root/jaegeun_project/bentoml-basic/bentoml/repository/IrisClassifier/20211203140533_8BC50E
+[2021-12-03 15:03:45,655] {yatai_service_impl.py:485} INFO - Getting latest version IrisClassifier:20211203140533_8BC50E
+[2021-12-03 15:03:45,677] {__init__.py:88} INFO - Starting BentoML API proxy in development mode..
+[2021-12-03 15:03:45,678] {__init__.py:71} INFO - Starting BentoML API server in development mode..
+[2021-12-03 15:03:45,982] {marshal.py:305} INFO - Micro batch enabled for API `predict` max-latency: 20000 max-batch-size 4000
+[2021-12-03 15:03:45,982] {marshal.py:209} INFO - Your system nofile limit is 1024, which means each instance of microbatch service is able to hold this number of connections at same time. You can increase the number of file descriptors for the server process, or launch more microbatch instances to accept more concurrent connection.
