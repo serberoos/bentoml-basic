@@ -1,2 +1,13 @@
 bentoml
 torch
+opencv-python
+pandas
+pillow
+pyyaml
+tqdm
+torchvision
+matplotlib
+seaborn
+imageio
+
+
